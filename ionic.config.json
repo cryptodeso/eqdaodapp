@@ -1,0 +1,8 @@
+{
+  "name": "eq-dao-web",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "478600b6"
+}

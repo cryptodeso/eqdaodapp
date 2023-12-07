@@ -1,0 +1,8 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "NorbertTC",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	}
+}
